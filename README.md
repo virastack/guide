@@ -23,7 +23,7 @@
 
 ## Ecosystem
 
-Part of the [ViraStack](https://virastack.com) ecosystem: [Academy](https://virastack.com/academy) · [Start](https://virastack.com/start) · [AI](https://virastack.com/ai) · [Mask](https://virastack.com/mask) · [Password](https://virastack.com/password)
+Part of the [ViraStack](https://virastack.com) ecosystem: [Academy](https://github.com/virastack/academy) · [Start](https://github.com/virastack/start) · [AI](https://github.com/virastack/ai) · [Mask](https://github.com/virastack/mask) · [Password](https://github.com/virastack/password)
 
 ## License
 
