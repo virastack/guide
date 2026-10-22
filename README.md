@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/virastack/guide/main/assets/guide.png" alt="ViraStack Guide" height="120" style="max-width: 100%;" />
 
-*An interactive, step-by-step journey demonstrating how modern web applications are built.*
+*Interactive step-by-step guide to how a modern web app is built, in 3 minutes*
 
 [![ViraStack Guide](https://img.shields.io/badge/ViraStack-Guide-%23ffb900)](https://virastack.com/guide)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/virastack/guide/blob/main/LICENSE)
@@ -12,25 +12,19 @@
 
 ---
 
-### [🚀 Start Interactive Guide →](https://virastack.com/guide)
+### [Start the guide →](https://virastack.com/guide)
 
-## Why ViraStack Guide?
+## Features
 
-- **Step-by-Step Learning:** Master modern web development standards from raw HTML to an AI-native experience in just 3 minutes.
-- **Modern Stack:** Built with Next.js 16+, React 19, Tailwind CSS 4, and TypeScript.
-- **UI & Accessibility:** Utilizes shadcn/ui for beautiful, fully accessible, and customizable components.
-- **AI-Native Architecture:** Demonstrates how to integrate AI tools and workflows into modern web applications.
+- **Step by step:** From raw HTML to an AI-native app in about 3 minutes.
+- **Modern stack:** Next.js, React, Tailwind CSS and TypeScript.
+- **Accessible UI:** Built with shadcn/ui.
+- **AI-native:** Shows where AI tools fit into the workflow.
 
-## Explore the ViraStack Ecosystem
+## Ecosystem
 
-Discover all ViraStack tools, libraries, and boilerplates at [**virastack.com**](https://virastack.com).
+Part of the [ViraStack](https://virastack.com) ecosystem.
 
 ## License
 
-Licensed under the [MIT License](https://github.com/virastack/guide/blob/main/LICENSE).
-
-## Maintainer
-
-A project by [**Ömer Gülçiçek**](https://omergulcicek.com)
-
-[![Follow Ömer Gülçiçek](https://img.shields.io/github/followers/omergulcicek?label=Follow&style=social)](https://github.com/omergulcicek)
+[MIT](LICENSE) © [Ömer Gülçiçek](https://omergulcicek.com)
