@@ -88,7 +88,7 @@
     "virastack_star": "Sie können die Projekte unterstützen, indem Sie ihnen auf GitHub einen Stern (⭐) geben!",
     "nextjs_desc": "Produktionsbereites Next.js 16+ Starter-Template, erstellt mit Tailwind CSS 4 und TypeScript.",
     "ai_rules_desc": "AI-natives Architektur-Kit und hochdisziplinierte Protokolle für moderne React-Anwendungen.",
-    "password_desc": "Vollständig zugänglicher und hochgradig anpassbarer Passwort-Sichtbarkeits-Hook für React.",
+    "password_desc": "Barrierefreier Passwort-Hook für React: Ein-/Ausblenden, Passwortstärke, Bestätigung und Servervalidierung.",
     "input_mask_desc": "Leichtgewichtige, abhängigkeitsfreie Eingabemaskierungsbibliothek, optimiert für React Hook Form.",
     "author_title": "👨‍💻 Ömer Gülçiçek",
     "follow_github": "Auf GitHub folgen",

@@ -88,7 +88,7 @@
     "virastack_star": "Projelere GitHub'da yıldız (⭐) vererek destek olabilirsiniz!",
     "nextjs_desc": "Tailwind CSS 4 ve TypeScript ile geliştirilmiş, üretime hazır Next.js 16+ başlangıç şablonu.",
     "ai_rules_desc": "Modern React uygulamaları için yapay zeka odaklı mimari kiti ve yüksek disiplinli protokoller.",
-    "password_desc": "React için tamamen erişilebilir ve son derece özelleştirilebilir şifre görünürlüğü hook'u.",
+    "password_desc": "React için erişilebilir parola hook'u: göster/gizle, güç, parola tekrarı ve sunucu doğrulaması.",
     "input_mask_desc": "React Hook Form için optimize edilmiş, hafif ve bağımlılıksız input maskeleme kütüphanesi.",
     "author_title": "👨‍💻 Ömer Gülçiçek",
     "follow_github": "GitHub'da Takip Et",
