@@ -83,14 +83,14 @@ export default function Step7Final() {
 
         <div className="grid gap-4 sm:grid-cols-2">
           <a
-            href="https://github.com/virastack/nextjs-boilerplate"
+            href="https://github.com/virastack/start"
             target="_blank"
             rel="noopener noreferrer"
             className="group p-4 border rounded-lg hover:border-primary/50 transition-colors flex flex-col gap-2"
           >
             <div className="flex items-center justify-between">
               <span className="font-semibold group-hover:text-primary transition-colors">
-                nextjs-boilerplate
+                start
               </span>
             </div>
             <p className="text-sm text-muted-foreground">{t("nextjs_desc")}</p>
@@ -113,7 +113,7 @@ export default function Step7Final() {
           </a>
 
           <a
-            href="https://github.com/virastack/mask"
+            href="https://github.com/virastack/form/tree/main/packages/mask"
             target="_blank"
             rel="noopener noreferrer"
             className="group p-4 border rounded-lg hover:border-primary/50 transition-colors flex flex-col gap-2"
@@ -129,7 +129,7 @@ export default function Step7Final() {
           </a>
 
           <a
-            href="https://github.com/virastack/password"
+            href="https://github.com/virastack/form/tree/main/packages/password"
             target="_blank"
             rel="noopener noreferrer"
             className="group p-4 border rounded-lg hover:border-primary/50 transition-colors flex flex-col gap-2"
