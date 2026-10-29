@@ -87,7 +87,7 @@
     "virastack_desc": "Criei o ecossistema ViraStack para que você possa integrar instantaneamente todos esses padrões modernos em seus projetos. Em vez de começar do zero, leve seu processo de desenvolvimento para o próximo nível com ferramentas de código aberto.",
     "virastack_star": "Você pode apoiar os projetos dando-lhes uma estrela (⭐) no GitHub!",
     "nextjs_desc": "Modelo inicial Next.js 16+ pronto para produção, construído com Tailwind CSS 4 e TypeScript.",
-    "ai_rules_desc": "Kit de arquitetura nativa de IA e protocolos de alta disciplina para aplicações React modernas.",
+    "ai_rules_desc": "Regras de arquitetura para Claude Code, Cursor e qualquer agente que leia AGENTS.md.",
     "password_desc": "Hook de senha acessível para React: mostrar/ocultar, força, confirmação e validação no servidor.",
     "input_mask_desc": "Biblioteca de mascaramento de entrada leve e sem dependências, otimizada para React Hook Form.",
     "author_title": "👨‍💻 Ömer Gülçiçek",
