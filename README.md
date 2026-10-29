@@ -1,12 +1,12 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/virastack/guide/main/assets/guide.png" alt="ViraStack Guide" height="120" style="max-width: 100%;" />
+<img src="https://raw.githubusercontent.com/virastack/guide/main/assets/logo.png" alt="ViraStack Guide" height="120" style="max-width: 100%;" />
 
 *Interactive step-by-step guide to how a modern web app is built, in 3 minutes*
 
 [![ViraStack Guide](https://img.shields.io/badge/ViraStack-Guide-%23ffb900)](https://virastack.com/guide)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://github.com/virastack/guide/blob/main/LICENSE)
-[![@virastack](https://img.shields.io/badge/-%40virastack-black?logo=x&logoColor=white)](https://x.com/virastack)
+[![License: MIT](https://img.shields.io/github/license/virastack/guide)](https://github.com/virastack/guide/blob/main/LICENSE)
+[![@virastack](https://img.shields.io/badge/-%40virastack-555?logo=x&logoColor=white)](https://x.com/virastack)
 
 </div>
 
